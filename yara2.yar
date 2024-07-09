@@ -33,4 +33,4 @@ rule webshell_h4ntu_shell_powered_by_tsoi_ {
 		$s5 = "<INPUT TYPE=\"text\" NAME=\"cmd\" value=\"<?php echo stripslashes(htmlentities($"
 	condition:
 		all of them
-}';
+}
